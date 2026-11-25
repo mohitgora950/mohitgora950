@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://mohitgora950.github.io/dragon.html">
+    <img src="./dragon-banner.svg" alt="A dragon breathes fire and reveals: I AM MOHIT GORA. Click to fly the dragon and explore my repos." width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://mohitgora950.github.io/dragon.html"><img src="https://img.shields.io/badge/%F0%9F%90%89_Play-Fly_the_Dragon-e8703a?style=for-the-badge" alt="Play: Fly the Dragon" /></a>
+  <a href="https://mohitgora950.github.io"><img src="https://img.shields.io/badge/Portfolio-mohitgora950.github.io-d9a441?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:mohitgora950@gmail.com"><img src="https://img.shields.io/badge/Status-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work" /></a>
+</p>
+
 # Hi 👋, I'm Mohit Gora
 
 ### Aspiring Software Engineer | Math lover | LeetCode enthusiast
