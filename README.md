@@ -25,7 +25,7 @@ const mohit = {
   role:       "Software & AI/ML Engineer",
   education:  "B.Tech CSE @ IIIT Manipur (2023 – 2027)",
   experience: ["Data Scientist Associate Intern @ Blackcoffer (May – Aug 2025)"],
-  building:   ["LLM services on Kubernetes", "Full-stack platforms", "Computer vision apps"],
+  building:   ["Daily use (live vault PWA)", "LLM services on Kubernetes", "Full-stack platforms"],
   learning:   ["Transformers (encoder / decoder)", "RAG", "MLOps"],
   certified:  ["C++ (IIT Bombay)", "MongoDB"],
   openTo:     ["Full-time roles", "Internships", "Startup collaborations"],
@@ -40,13 +40,21 @@ const mohit = {
 ## 🚀 Featured projects
 
 <p align="center">
+  <a href="https://daily-use-xi.vercel.app"><img src="./assets/cards/card-daily.svg" width="49%" alt="Daily use: personal vault app (live PWA)" /></a>
   <a href="https://github.com/mohitgora950/cloud"><img src="./assets/cards/card-cloud.svg" width="49%" alt="Cloud-Native LLM Microservice" /></a>
   <a href="https://github.com/mohitgora950/professor-rating-app"><img src="./assets/cards/card-edurate.svg" width="49%" alt="EduRate" /></a>
   <a href="https://github.com/mohitgora950/Local-sign-language"><img src="./assets/cards/card-sign.svg" width="49%" alt="Sign Language Translator" /></a>
   <a href="https://github.com/mohitgora950/mohitgora950.github.io"><img src="./assets/cards/card-portfolio.svg" width="49%" alt="Portfolio and Dragon game" /></a>
+  <a href="https://github.com/mohitgora950/phoneBook"><img src="./assets/cards/card-phonebook.svg" width="49%" alt="PhoneBook" /></a>
 </p>
 
-<p align="center"><sub>Click a card to open the repository · More in <a href="https://github.com/mohitgora950?tab=repositories"><b>Repositories</b></a></sub></p>
+<p align="center">
+  <b>⭐ Daily use</b>, my everyday app, is live: <a href="https://daily-use-xi.vercel.app"><b>open it</b></a> ·
+  <a href="https://github.com/mohitgora950/daily-use"><b>code</b></a> ·
+  <a href="https://github.com/mohitgora950/daily-use/blob/vercel-deployment/docs/ANDROID.md"><b>install on Android / iPhone / PC</b></a>
+</p>
+
+<p align="center"><sub>Click a card to open it · More in <a href="https://github.com/mohitgora950?tab=repositories"><b>Repositories</b></a></sub></p>
 
 ## 🛠️ Tech stack
 
@@ -92,6 +100,7 @@ Learning something new? My repos are written to be **read and forked**, each wit
 
 | If you want to learn… | Start with |
 |---|---|
+| Building a real product: auth, encryption, PWA, Vercel + PostgreSQL | [`daily-use`](https://github.com/mohitgora950/daily-use) |
 | Knowledge distillation, Docker, Kubernetes, CI/CD | [`cloud`](https://github.com/mohitgora950/cloud) |
 | Full-stack auth (JWT), REST APIs, MySQL, dashboards | [`professor-rating-app`](https://github.com/mohitgora950/professor-rating-app) |
 | Computer vision with MediaPipe + OpenCV | [`Local-sign-language`](https://github.com/mohitgora950/Local-sign-language) |
@@ -102,7 +111,7 @@ Learning something new? My repos are written to be **read and forked**, each wit
 
 ## 🤝 For recruiters & startups
 
-I'm a **final-year CSE engineer (2027)** who has shipped an LLM service on Kubernetes, a role-based full-stack platform and a real-time CV app, plus a **Data Science internship** with global clients.
+I'm a **final-year CSE engineer (2027)** who has shipped a **live, installable vault app I use every day**, an LLM service on Kubernetes, a role-based full-stack platform and a real-time CV app, plus a **Data Science internship** with global clients.
 
 **Open to:** SDE · Full-Stack · AI/ML · Data roles, internships and early-stage startups (remote or on-site).
 If the problem is interesting, I'll commit to it fully.
