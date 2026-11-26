@@ -1,28 +1,37 @@
 <p align="center">
-  <a href="https://mohitgora950.github.io/dragon.html">
-    <img src="./dragon-banner.svg" alt="A dragon breathes fire and reveals: I AM MOHIT GORA. Click to fly the dragon and explore my repos." width="100%" />
+  <a href="https://mohitgora950.github.io">
+    <img src="./profile-hero.svg" alt="Mohit Gora: Software and AI/ML Engineer, open to work. A rotating 3D neural-network globe with orbiting tech skills." width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://mohitgora950.github.io/dragon.html"><img src="https://img.shields.io/badge/%F0%9F%90%89_Play-Fly_the_Dragon-e8703a?style=for-the-badge" alt="Play: Fly the Dragon" /></a>
-  <a href="https://mohitgora950.github.io"><img src="https://img.shields.io/badge/Portfolio-mohitgora950.github.io-d9a441?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://mohitgora950.github.io"><img src="https://img.shields.io/badge/Portfolio-mohitgora950.github.io-d9a441?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mohitgora950.github.io/assets/Mohit_Gora_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-e8703a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   <a href="mailto:mohitgora950@gmail.com"><img src="https://img.shields.io/badge/Status-Open_to_Work-2ea043?style=for-the-badge" alt="Open to work" /></a>
+  <a href="https://www.linkedin.com/in/mohit-goraaaa1234/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-# Hi 👋, I'm Mohit Gora
-
-### Aspiring Software Engineer | Math lover | LeetCode enthusiast
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohitgora950&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgora950" />
+  <img src="https://komarev.com/ghpvc/?username=mohitgora950&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🎓 I'm a **final-year B.Tech CSE student** at IIIT Senapati, Manipur
-- 🌱 I'm currently learning **AI/ML** (Python, Pandas, deep learning fundamentals) alongside DSA in C++
-- 💻 I love solving problems on **LeetCode** and sharpening my math + DSA skills
-- 🛠️ I build full-stack projects — recently worked on a professor-rating & analytics platform (Node.js, Express, MySQL)
-- 📫 Reach me at **mohitgora950@gmail.com**
+### 👋 About me
+
+- 🎓 **Final-year B.Tech CSE** at IIIT Senapati, Manipur (Class of 2027)
+- 💼 Ex-**Data Scientist Associate Intern** at **Blackcoffer**: Python analysis and reporting for global clients
+- 🤖 Building with **AI/ML**: knowledge distillation, transformers (encoder/decoder), RAG, computer vision
+- 🛠️ I ship **end to end**: full-stack web apps, cloud deployments on Kubernetes, CI/CD
+- 🧠 I practise **DSA in C++** on LeetCode and like turning messy problems into clean systems
+- 📫 **Open to full-time roles and internships.** Reach me at **mohitgora950@gmail.com**
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| ☁️ **[Cloud-Native LLM Microservice](https://github.com/mohitgora950/cloud)** | Distilled a teacher LLM into a **70M-param** student model (97% valid JSON) and served it on **Kubernetes** with autoscaling, zero-downtime rollouts and CI/CD | Python · PyTorch · FastAPI · Docker · K8s |
+| 🎓 **[EduRate](https://github.com/mohitgora950/professor-rating-app)** | Role-based professor rating and analytics platform with JWT auth, a performance predictor and automated email reports | Node.js · Express · MySQL · Chart.js |
+| 🤟 **[Sign Language Translator](https://github.com/mohitgora950/Local-sign-language)** | Real-time hand-gesture recognition from a webcam, shown as text and spoken aloud, fully offline | Python · OpenCV · MediaPipe |
+| 🌐 **[Portfolio + Dragon game](https://github.com/mohitgora950/mohitgora950.github.io)** | Three.js portfolio and a playable canvas game, written from scratch | JavaScript · Three.js · Canvas |
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
@@ -73,6 +82,18 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
+### 🐉 Just for fun
+
+<p align="center">
+  <a href="https://mohitgora950.github.io/dragon.html">
+    <img src="./dragon-banner.svg" alt="A dragon breathes fire and reveals: I AM MOHIT GORA. Click to play the dragon game." width="80%" />
+  </a>
+  <br />
+  <sub>I built a playable dragon game: burn the banners, unlock my repos and beat the Frost Wyrm. <a href="https://mohitgora950.github.io/dragon.html"><b>Play it here →</b></a></sub>
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
 ### Connect with me:
 
 <p align="left">
@@ -85,9 +106,7 @@
 <a href="mailto:mohitgora950@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<!-- Portfolio ready hone par yahan add karna: 
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<a href="https://mohitgora950.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
--->
 </p>
