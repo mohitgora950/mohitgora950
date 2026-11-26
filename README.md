@@ -63,10 +63,12 @@ const mohit = {
 
 ## 📈 GitHub activity
 
+<!-- Stats + streak cards: re-enable once contributions grow
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitgora950&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff9a4d&icon_color=f3d58b&text_color=c9d1d9&ring_color=e8703a&rank_icon=github" alt="GitHub stats" height="170" />
   <img src="https://streak-stats.demolab.com/?user=mohitgora950&hide_border=true&background=0d1117&ring=e8703a&fire=ff9a4d&currStreakLabel=f3d58b&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" height="170" />
 </p>
+-->
 
 <p align="center">
   <picture>
